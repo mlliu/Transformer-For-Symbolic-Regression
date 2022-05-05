@@ -1,0 +1,8 @@
+mul	pow	add	x	pow	x	INT+	2	INT-	1	add	pi	sqrt	pi
+add	INT+	2	mul	pow	pi	INT-	1	pow	x	INT+	4
+add	mul	INT-	1	pi	mul	x	add	pi	x
+mul	INT+	2	mul	pow	pi	INT-	1	pow	x	INT+	2
+mul	x	mul	pow	pi	INT-	1	add	INT+	3	pi
+mul	INT+	5	mul	pi	x
+add	pi	add	x	asinh	mul	div	INT+	1	INT+	3	x
+add	x	atan	atan	sin	INT+	5
