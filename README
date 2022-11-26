@@ -1,10 +1,6 @@
-Deep Learning for Symbolic Regression
-
-Abstract 
+# Deep Learning for Symbolic Regression
 
 Symbolic regression is a task that aims to discover the underlying equations from a given sample of data or observation. Due to the richness of the space of mathematical expressions, symbolic regression is generally a challenging problem. Current approaches, including genetic programming and deep neural method, usually follow a two-step procedure: first predicting the symbols of function, then approximating the constants. We modify these conventional methods by proposing an end-to-end transformer-based language model to directly predict the complete mathematical expressions. The proposed model exploits the advantages of a large-scale model and global training strategy. Through comprehensive experiments, we show that our model performs robustly, eventually reaching around 78% accuracy.
-
-Introduction
 
 In recent years, neural network has achieved state-of-art performance in various fields in computer vision, speech recognition, natural language processing, etc. However, only a few studies investigated the capacity and application of neural networks to deal with symbolic regression problems.
 
